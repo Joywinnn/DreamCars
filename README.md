@@ -1,2 +1,2 @@
 # DreamCars
-Cars purchase web-app in admin controller  
+Cars purchase web-app with admin controller  
